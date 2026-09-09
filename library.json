@@ -1,0 +1,10 @@
+{
+  "name": "sensor-hub-scd4x-provider",
+  "build": {
+    "libArchive": false
+  },
+  "dependencies": {
+    "sensirion/Sensirion I2C SCD4x": "^1.1.0",
+    "sensirion/Sensirion Core": "^0.7.3"
+  }
+}
